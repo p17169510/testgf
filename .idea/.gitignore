@@ -112,6 +112,7 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+<<<<<<< Updated upstream
 
 
 # Eclipse
@@ -130,3 +131,6 @@ fabric.properties
 # Maven
 log/
 target/
+=======
+.idea/uiDesigner.xml
+>>>>>>> Stashed changes
